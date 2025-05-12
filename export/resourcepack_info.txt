@@ -1,2 +1,0 @@
-URL=https://raw.githubusercontent.com/mdfx1/SoulSmpRecources/main/export/texturepack.zip
-7405dd8d706c3dbec3aa21c9eba8a9562997f9674198a689503275334ce78c9f
