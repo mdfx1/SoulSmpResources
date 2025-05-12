@@ -1,0 +1,43 @@
+name: Build and Publish Texture Pack
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Setup JDK 11 (if needed)
+        uses: actions/setup-java@v2
+        with:
+          distribution: 'temurin'
+          java-version: '11'
+
+      - name: Zip Texture Pack
+        run: |
+          mkdir -p export
+          zip -r export/texturepack.zip path/to/your/texturepack/*
+
+      - name: Calculate SHA-256 Hash
+        run: |
+          HASH=$(sha256sum export/texturepack.zip | awk '{ print $1 }')
+          echo "HASH=$HASH" > export/hash.txt
+
+      - name: Write URL and Hash to File
+        run: |
+          echo "URL=https://raw.githubusercontent.com/username/repo/branch/export/texturepack.zip" > export/resourcepack_info.txt
+          cat export/hash.txt >> export/resourcepack_info.txt
+
+      - name: Commit and Push
+        run: |
+          git config --global user.email "you@example.com"
+          git config --global user.name "Your Name"
+          git add export/resourcepack_info.txt
+          git commit -m "Update resource pack info"
+          git push
