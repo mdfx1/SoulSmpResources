@@ -267,6 +267,16 @@
 			"Ǻ"
 		]
 	}
+	,
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/nations/srhnationbanner.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"Ɇ"
+		]
+	}
 	
 
 ]
