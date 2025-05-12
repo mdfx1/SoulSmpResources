@@ -1,0 +1,273 @@
+{"providers":[
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/fight.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"\uEffa"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/green_dev.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"᧻"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/admin_scoreboard.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"҂"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/question_mark.png",
+		"height": 11,
+		"ascent": 9,
+		"chars": [
+			"֍"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/vipplus.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"؎"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/spieler.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"؏"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/vip.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"۞"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/dev.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"۩"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/azubi-dev.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"۾"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/builder.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"᧫"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/sup.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"߶"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/mod.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"৺"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/admin.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"୰"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/owner.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"௳"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/azubi.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"௴"
+		]
+	},	
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/youtube.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"௵"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/co-owner.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"௶"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/media.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"௷"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/soul.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"௸"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/head-media.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"௺"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/baumeister.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"౿"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/nations/gounationbanner.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"൏"
+		]
+	}
+	,
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/nations/rgsnationbanner.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"൹"
+		]
+	}
+	,
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/nations/sfonationbanner.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"༁"
+		]
+	}
+	,
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/nations/tanationbanner.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"Ѵ"
+		]
+	}
+	,
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/nations/tgnationbanner.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"ѵ"
+		]
+	}
+	,
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/nations/kvenationbanner.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"Ҩ"
+		]
+	}
+	,
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/nations/eernationbanner.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"ʦ"
+		]
+	}
+	,
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/nations/xaosnationbanner.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"Ǻ"
+		]
+	}
+	
+
+]
+}
