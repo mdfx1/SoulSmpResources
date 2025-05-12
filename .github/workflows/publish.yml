@@ -16,10 +16,12 @@ jobs:
       - run: rm -rf export
       - run: mkdir -p export
 
-      # Erstelle ZIP
-      - run: zip -r export/texturepack.zip texturepack
+      # Erstelle ZIP mit Inhalt des texturepack-Ordners (ohne übergeordneten Ordner)
+      - run: |
+          cd texturepack
+          zip -r ../export/texturepack.zip *
 
-      # Berechne SHA1-Hash (nicht SHA256)
+      # Berechne SHA1-Hash
       - run: sha1sum export/texturepack.zip | awk '{ print $1 }' > export/hash.txt
 
       # Erstelle texturepack.txt im Root mit URL und Hash
