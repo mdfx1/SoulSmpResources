@@ -277,6 +277,26 @@
 			"Ɇ"
 		]
 	}
+	,
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/nations/rlmnationbanner.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"Ж"
+		]
+	}
+	,
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/nations/rtcnationbanner.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"Ѡ"
+		]
+	}
 	
 
 ]
