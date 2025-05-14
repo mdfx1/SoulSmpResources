@@ -297,6 +297,16 @@
 			"Ѡ"
 		]
 	}
+	,
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/nations/mbnationbanner.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"ㆋ"
+		]
+	}
 	
 
 ]
