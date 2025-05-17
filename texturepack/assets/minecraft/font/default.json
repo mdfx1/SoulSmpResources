@@ -307,7 +307,15 @@
 			"ㆋ"
 		]
 	}
-	
-
+	,
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/nations/nationaxe.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"ѹ"
+		]
+	}
 ]
 }
