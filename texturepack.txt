@@ -1,2 +1,2 @@
 Download: https://raw.githubusercontent.com/mdfx1/SoulSmpResources/main/export/texturepack.zip
-SHA1: a8173de9f2c850bc876efdcf025404e606b4b4cf
+SHA1: 2db0aa7c8d5fc30e806bf8efc0504bf51139bee1
