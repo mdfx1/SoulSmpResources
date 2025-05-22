@@ -7,7 +7,8 @@
   },
   "property": "minecraft:custom_model_data",
   "entries": [
-      {"model": {"type": "minecraft:model", "model": "soulpack:item/crown/golden_crown"}, "threshold": 1}
+      {"model": {"type": "minecraft:model", "model": "soulpack:item/crown/golden_crown"}, "threshold": 1},
+      {"model": {"type": "minecraft:model", "model": "soulpack:item/crown/black_crown"}, "threshold": 2}
     ]
   }
 }
