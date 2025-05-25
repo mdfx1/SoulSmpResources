@@ -337,5 +337,25 @@
 			""
 		]
 	}
+	,
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/nations/tkrnationbanner.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			""
+		]
+	}
+	,
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/nations/budationbanner.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			""
+		]
+	}
 ]
 }
