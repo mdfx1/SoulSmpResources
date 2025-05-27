@@ -347,5 +347,25 @@
 			""
 		]
 	}
+	,
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/nations/budnationbanner.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			""
+		]
+	}
+	,
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/nations/ugnationbanner.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			""
+		]
+	}
 ]
 }
