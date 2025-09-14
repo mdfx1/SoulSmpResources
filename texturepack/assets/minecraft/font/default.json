@@ -8,6 +8,15 @@
 			"\uEffa"
 		]
 	},
+		{
+		"type": "bitmap",
+		"file": "minecraft:custom/nations/nation_splasher.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"娛"
+		]
+	},
 	{
 		"type": "bitmap",
 		"file": "minecraft:custom/ranks/green_dev.png",
